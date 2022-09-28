@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  background-image: linear-gradient(to left, rgb(166, 196, 211), gray);
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  height: 100vw;
+}
+.card-container{
+  
+  margin: 5vw;
+}

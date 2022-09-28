@@ -1,0 +1,10 @@
+.header img{
+width: 75px;
+margin-right: 1vw;
+border-radius:10px ;
+}
+.header{
+    display:flex;
+    margin-bottom: 50px;
+    
+}
