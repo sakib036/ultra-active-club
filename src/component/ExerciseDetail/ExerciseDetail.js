@@ -34,6 +34,7 @@ const ExerciseDetail = ({time}) => {
             time={time}
             rest={rest}
              ></Time>
+             <button className='btn-activity'>Activity Completed</button>
         </div>
     );
 };

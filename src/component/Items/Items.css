@@ -27,7 +27,7 @@
     margin: 10px 0;
 }
 .btn-add-list:hover{
-    background-color:lightsteelblue;
+    background-color:lightseagreen;
 }
 @media only screen and (max-width: 576px){
     .card-item{

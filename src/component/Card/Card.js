@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import CardHeader from '../CardHeader/CardHeader';
 import ExerciseDetail from '../ExerciseDetail/ExerciseDetail';
 import Items from '../Items/Items';
+import Question from '../Question/Question';
 import './Card.css'
 
 
@@ -37,7 +38,9 @@ const Card = () => {
             <div className='exercise-detail'>
                     <ExerciseDetail time={time}></ExerciseDetail>
             </div>
-            
+            <div>
+                <Question></Question>
+            </div>
         </div>
         
 
