@@ -16,8 +16,10 @@ const Card = () => {
     }, []);
     const [time, setTime]=useState(0);
     const addTime=(items)=>{
+      
       const newTime=time+(items.time);
       setTime(newTime);
+
     }
     return (
         <div className='card'>

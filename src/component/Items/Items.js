@@ -3,14 +3,14 @@ import './Items.css'
 
 const Items = (props) => {
 
-    const {id,title,picture,time,about}=props.item;
+    const {age,title,picture,time,about}=props.item;
     return (
         <div className='card-item'>
             <div className='card-detail'>
                 <img className='card-pic' src={picture} alt="" />
                 <h1>{title}</h1>
                 <p>{about}</p>
-                <p>{id}</p>
+                <p>Age :{age}</p>
                 <p>Time:{time} min</p>
             </div>
             <button onClick={()=>props.addTime(props.item)} className='btn-add-list'>
