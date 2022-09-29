@@ -7,9 +7,9 @@ const CardHeader = () => {
         <div className='header-section'>
            <div className='header'>
            <img src={logo} alt="" />
-            <h1>PEAK PERFORMANCE</h1>
+            <h3>PEAK PERFORMANCE</h3>
            </div>
-           <h1>Select Today's Performance</h1>
+           <h3>Select Today's Performance</h3>
         </div>
         
     );

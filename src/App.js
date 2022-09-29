@@ -8,7 +8,7 @@ function App() {
       <div className='card-container'>
         <Card></Card>
       </div>
-      <div>
+      <div className='exercise-detail'>
         <h1>Exercise Details</h1>
       </div>
      

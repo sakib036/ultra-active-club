@@ -8,3 +8,8 @@ border-radius:10px ;
     margin-bottom: 50px;
     
 }
+@media only screen and (max-width: 576px){
+    .header img{
+        width:50px;      
+    }
+}

@@ -40,9 +40,21 @@
   background-image: linear-gradient(to left, rgb(166, 196, 211), gray);
   display: grid;
   grid-template-columns: 4fr 1fr;
-  height: 100vw;
+  height: 100%;
+  width:100%;
 }
 .card-container{
   
   margin: 5vw;
+}
+.exercise-detail{
+  background-color:lightslategrey;
+  position: sticky;
+  top:0;
+}
+@media only screen and (max-width: 576px){
+  
+  .card-container{
+    margin: 0;
+  }
 }

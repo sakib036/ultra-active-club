@@ -1,0 +1,58 @@
+[
+    {
+      "id": "63347858bffc68635e96155a",
+      "title": "Cycle Muscular",
+      "picture": "./images/Cycle Tono Muscular.jpg",
+      "age": 23,
+      "time": "45",
+      "about": "Cycling is well physical and mental health benefits helped by a positive boost to your mind, body and soul."
+    },
+    {
+      "id": "633478583288c88ca68a1ff2",
+      "title": "Swimming",
+      "picture": "./images/swiming.jpg",
+      "age": 26,
+      "time": "20",
+      "about": "Swimming is an individual or team racing sport that requires the use of one's entire body to move through water. "
+    },
+    {
+      "id": "6334785851929347f665828d",
+      "title": "Ballet",
+      "picture": "./images/ballet.jpg",
+      "age": 21,
+      "time": "20",
+      "about": "An artistic dance form performed to music, using precise and highly formalized set steps and gestures. "
+    },
+    {
+      "id": "63347858852a6b4670216460",
+      "title": "Yoga as therapy",
+      "picture": "./images/Yoga as therapy.jpg",
+      "age": 25,
+      "time": "60",
+      "about": "For the use of yoga as therapy, Yoga is a group of physical, mental, and spiritual practices. "
+    },
+    {
+      "id": "6334785861cb0f2ec00f5bcc",
+      "title": "Pilates",
+      "picture": "./images/Pilates.jpg",
+      "age": 22,
+      "time": "15",
+      "about": "an exercise regimen that is typically performed on a floor mat or with the use of specialized apparatus"
+    },
+    {
+      "id": "633478582d6ed6937ca0beb8",
+      "title": "Taekwondo",
+      "picture": "./images/Taekwondo.jpg",
+      "age": 37,
+      "time": "25",
+      "about": "They are a kind of martial arts in which one attacks or defends with hands and feet."
+    },
+    {
+      "id": "633478581ad239433f588f1a",
+      "title": "Brisk walking",
+      "picture": "./images/Brisk walking.jpg",
+      "age": 39,
+      "time": "30",
+      "about": "A brisk walk is about 3 miles an hour, which is faster than a stroll."
+    }
+  ]
