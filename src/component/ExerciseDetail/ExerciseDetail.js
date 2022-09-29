@@ -4,6 +4,7 @@ import myPic from '../../images/Nazmus Sakib.jpg'
 import Break from '../Break/Break';
 import BodyDetail from '../BodyDetail/BodyDetail';
 import Time from '../Time/Time';
+import Toast from '../Toast/Toast';
 
 
 
@@ -34,7 +35,7 @@ const ExerciseDetail = ({time}) => {
             time={time}
             rest={rest}
              ></Time>
-             <button className='btn-activity'>Activity Completed</button>
+            <Toast></Toast>
         </div>
     );
 };

@@ -1,0 +1,16 @@
+.btn-activity{
+    background-color: lightsteelblue;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px 0;
+}
+.btn-activity:hover{
+    background-color: antiquewhite;
+}
+.toast-message{
+    padding:50px;
+    font-size: 20px;
+    width:100%;
+}
