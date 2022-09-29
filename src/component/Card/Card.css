@@ -1,8 +1,28 @@
+.card{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.card-container{
+  
+    margin: 5vw;
+  }
+  .exercise-detail{
+    background-color:lightslategrey;
+    position: sticky;
+    top:0;
+  }
+ 
 .item-container{
     display:grid;
     grid-template-columns: repeat(3,1fr);
     gap:10px;
 }
+@media only screen and (max-width: 576px){
+    
+    .card-container{
+      margin: 0;
+    }
+  }
 @media only screen and (max-width: 768px){
    .item-container{
     display: block;

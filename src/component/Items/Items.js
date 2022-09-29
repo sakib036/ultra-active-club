@@ -2,7 +2,7 @@ import React from 'react';
 import './Items.css'
 
 const Items = (props) => {
-    console.log(props)
+
     const {id,title,picture,time,about}=props.item;
     return (
         <div className='card-item'>
@@ -13,7 +13,7 @@ const Items = (props) => {
                 <p>{id}</p>
                 <p>Time:{time} min</p>
             </div>
-            <button className='btn-add-list'>
+            <button onClick={()=>props.addTime(props.item)} className='btn-add-list'>
                 <p>Add To List</p>
             </button>
         </div>
