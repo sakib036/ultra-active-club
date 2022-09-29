@@ -1,0 +1,16 @@
+.exercise-details{
+    padding: 20px;
+    position: sticky;
+    top:0;
+}
+.exercise-header img{
+    width:50px;
+    height:50px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+.exercise-header{
+    display: flex;
+    align-items: center;
+}
+

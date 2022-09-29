@@ -1,0 +1,12 @@
+.body-details{
+    display: flex;
+    justify-content: space-around;
+    border:1px solid gray;
+    background-color: lightsteelblue;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.body-details h4,p{
+    margin: 0;
+}

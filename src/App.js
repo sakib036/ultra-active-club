@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Card from './component/Card/Card';
+import ExerciseDetail from './component/ExerciseDetail/ExerciseDetail';
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
         <Card></Card>
       </div>
       <div className='exercise-detail'>
-        <h1>Exercise Details</h1>
+        <ExerciseDetail></ExerciseDetail>
       </div>
      
     </div>
