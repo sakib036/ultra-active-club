@@ -1,0 +1,11 @@
+.time{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid gray;
+    background-color: lightsteelblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.time h4{
+    margin: 10px;
+}

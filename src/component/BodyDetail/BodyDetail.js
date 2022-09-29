@@ -14,7 +14,7 @@ const BodyDetail = () => {
                     <p>Height</p>
                 </div>
                 <div>
-                    <h4>32 yrs</h4>
+                    <h4>32</h4>
                     <p>Age</p>
                 </div>
             </div>

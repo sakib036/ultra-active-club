@@ -3,6 +3,7 @@ import './ExerciseDetail.css'
 import myPic from '../../images/Nazmus Sakib.jpg'
 import Break from '../Break/Break';
 import BodyDetail from '../BodyDetail/BodyDetail';
+import Time from '../Time/Time';
 
 const ExerciseDetail = () => {
     return (
@@ -13,6 +14,7 @@ const ExerciseDetail = () => {
             </div>
             <BodyDetail></BodyDetail>
             <Break></Break>
+            <Time></Time>
         </div>
     );
 };
